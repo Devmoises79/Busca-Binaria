@@ -66,8 +66,8 @@ test_busca.py           # Testes unitários para busca, remoção e log
 
 - 👨‍💻 Foco: Desenvolvimento **back-end** e construção de soluções eficientes e bem estruturadas.
 
-🔗 [Portfólio online](https://portfolio-ten-delta-43.vercel.app/projetos.html)
-📁 [Repositório GitHub](https://github.com/Devmoises79/Portfolio)
+🔗 [Portfólio online](https://portfolio-ten-delta-43.vercel.app/index.html)
+📁 [Repositório GitHub](https://github.com/Devmoises79/)
 
 ---
 
