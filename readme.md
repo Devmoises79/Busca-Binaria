@@ -64,7 +64,7 @@ test_busca.py           # Testes unitários para busca, remoção e log
 
 - Desenvolvido por **Moisés Aniceto**
 
-- 👨‍💻 Foco: Desenvolvimento **back-end** e construção de soluções eficientes e bem estruturadas.
+- 👨‍💻 Foco: Desenvolvimento **back-end**.
 
 - 🔗 [Portfólio online](https://portfolio-ten-delta-43.vercel.app/index.html)
 - 📁 [Confira outros projetos](https://github.com/Devmoises79?tab=repositories)
